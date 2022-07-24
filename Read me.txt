@@ -1,0 +1,3 @@
+This was a sample database project started with the intention of familiarizing working with SQL and NoSQL databases.
+
+Here we have used both mongodb and Sqlite for our project.
