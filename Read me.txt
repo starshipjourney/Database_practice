@@ -1,3 +1,4 @@
 This was a sample database project started with the intention of familiarizing working with SQL and NoSQL databases.
-
 Here we have used both mongodb and Sqlite for our project.
+CURD operations were practiced.
+IPywidgets library was used to give some UI functionalities within jupyter notebook.
